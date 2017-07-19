@@ -1,1 +1,1 @@
-# react-technology-stack
+# react 技术栈图片，建议新窗口单独打开图片预览
